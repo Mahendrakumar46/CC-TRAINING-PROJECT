@@ -26,7 +26,7 @@ mvn spring-boot:run
 ```
 
 ### 4. Access the Application
-Open your browser to: `http://localhost:8080/`
+Open your browser to: `https://complete-smart-attendance-system-fixed-auth-z96wfc.v2.appdeploy.ai/`
 
 **Test Accounts:**
 - Admin: `admin@system.com` / `admin123`
